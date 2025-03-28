@@ -11,7 +11,7 @@ a node.js CLI tool that organizes files in a folder by file type into categorize
 ## usage
 
 to use it, make sure you have [node.js](https://nodejs.org/en) installed, clone this repository, and then run `node app.js [directory-path]`.
-<br/><br/>
+<br/>
 
 ## results
 
@@ -65,7 +65,6 @@ after running the script, a new folder will be created with `-organized` appende
         ├── vid.avi
         └── video.mp4
 ```
-<br/>
 
 ## modifications
 

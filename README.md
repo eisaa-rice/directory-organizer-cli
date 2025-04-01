@@ -1,4 +1,4 @@
-# directory organizer CLI
+# 📁 directory organizer CLI
 
 a node.js CLI tool that organizes files in a folder by file type into categorized subfolders, such as:
 
